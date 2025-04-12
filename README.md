@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Tu Nombre]
+# 👋 Hi there! I'm Gerard Grau
 
 🎯 **Junior Developer | AI Enthusiast | Mobile App Builder**
 
