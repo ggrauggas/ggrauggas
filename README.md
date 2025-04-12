@@ -30,13 +30,12 @@ I'm a passionate junior developer specializing in **Artificial Intelligence** an
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggrauggas&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggrauggas&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Let's Connect!
 
 - 📧 [Email](mailto:gerardgrau2004@gmail.com)
+  
 - 🚀 Open to collaboration and new opportunities!
 
 ---
