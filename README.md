@@ -52,7 +52,7 @@
 
 <div style="background: #161b22; padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border-top: 4px solid #FF79C6; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
 <h3 style="font-family: 'Consolas', monospace; color: #FF79C6; margin-top: 0; font-size: 20px;">🤖 OPTI AI</h3>
-<p style="font-family: 'Segoe UI', sans-serif; color: #A9B7C6; line-height: 1.6;">Web platform in development that generates optimized prompts for artificial intelligence, improving interaction with models like GPT-4 and Claude.</p>
+<p style="font-family: 'Segoe UI', sans-serif; color: #A9B7C6; line-height: 1.6;">Web platform in development that generates optimized prompts for artificial intelligence, improving interaction with models like GPT-4 and Deepseek</p>
 <div style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
