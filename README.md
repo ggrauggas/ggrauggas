@@ -102,6 +102,5 @@
 </div>
 
 <div align="center" style="margin-top: 50px; font-family: 'Segoe UI', sans-serif; color: #A9B7C6;">
-  <p>"Innovation distinguishes between a leader and a follower" - Steve Jobs</p>
   <img src="https://komarev.com/ghpvc/?username=ggrauggas&label=Profile+views&color=5BCDEC&style=flat" alt="Profile views" style="margin-top: 20px;"/>
 </div>
