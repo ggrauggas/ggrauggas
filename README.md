@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Gerard+Grau+%7C+%26+Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Gerard+Grau+%7C+Full+Stack+Dev" alt="Typing SVG" />
 </div>
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1c2b41 100%); padding: 25px; border-radius: 15px; margin: 25px 0; border-left: 5px solid #5BCDEC; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
@@ -69,6 +69,15 @@
 </div>
 
 <div style="background: #161b22; padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border-top: 4px solid #50FA7B; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+<h3 style="font-family: 'Consolas', monospace; color: #50FA7B; margin-top: 0; font-size: 20px;">TU diabetes NUESTRA historia</h3>
+<p style="font-family: 'Segoe UI', sans-serif; color: #A9B7C6; line-height: 1.6;">A forum-style web platform to help people with type 1 diabetes, where users can share experiences, ask questions, and receive help from other users.</p>
+<div style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+</div>
+</div>
+<div style="background: #161b22; padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border-top: 4px solid #50FA7B; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
 <h3 style="font-family: 'Consolas', monospace; color: #50FA7B; margin-top: 0; font-size: 20px;">MyCodeService</h3>
 <p style="font-family: 'Segoe UI', sans-serif; color: #A9B7C6; line-height: 1.6;">Flutter application for scanning and managing barcodes, with advanced organization features and local database.</p>
 <div style="margin-top: 20px;">
@@ -77,7 +86,6 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
 </div>
 </div>
-
 </div>
 
 <h2 style="font-family: 'Segoe UI', sans-serif; color: #5BCDEC; text-align: center; border-bottom: 2px solid #30363D; padding-bottom: 12px; margin-top: 50px;">GitHub Statistics</h2>
