@@ -1,7 +1,7 @@
 
 ## Agente
 
-- **Usuario:** Gerard Grau Gascón, 22 años · Prácticas · Informática
+- **Usuario:** Gerard Grau Gascón, 22 años · Informática / Programador
 
 ---
 
