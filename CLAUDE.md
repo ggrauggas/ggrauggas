@@ -15,6 +15,7 @@
 - **Comunicación:** Sin introducciones aduladoras ni cierres innecesarios.
 - **Simplicidad:** Soluciones simples y directas.
 - **Prioridad:** Las instrucciones del usuario siempre prevalecen sobre este archivo.
+- **Sin emojis**
 
 ---
 
