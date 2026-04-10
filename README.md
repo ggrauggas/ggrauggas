@@ -1,114 +1,78 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Gerard+Grau+%7C+Full+Stack+Dev" alt="Typing SVG" />
-</div>
 
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2b41 100%); padding: 25px; border-radius: 15px; margin: 25px 0; border-left: 5px solid #5BCDEC; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
-<h2 style="font-family: 'Segoe UI', sans-serif; color: #5BCDEC; text-align: center; margin-bottom: 25px;">My Tech Stack</h2>
+# Gerard Grau
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+**Full Stack Developer**
 
-<div style="background: rgba(16,24,39,0.5); padding: 15px; border-radius: 10px;">
-<h3 style="font-family: 'Consolas', monospace; color: #FF79C6; border-bottom: 1px solid #30363D; padding-bottom: 8px;">Artificial Intelligence</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-</div>
-</div>
+<br>
 
-<div style="background: rgba(16,24,39,0.5); padding: 15px; border-radius: 10px;">
-<h3 style="font-family: 'Consolas', monospace; color: #50FA7B; border-bottom: 1px solid #30363D; padding-bottom: 8px;">Mobile Development</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Barcode_Scanning-0175C2?style=for-the-badge&logo=flutter&logoColor=white">
-</div>
-</div>
-
-<div style="background: rgba(16,24,39,0.5); padding: 15px; border-radius: 10px;">
-  <h3 style="font-family: 'Consolas', monospace; color: #F1FA8C; border-bottom: 1px solid #30363D; padding-bottom: 8px;">
-    Web Development
-  </h3>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Business%20Central-00A1F1?style=for-the-badge&logo=microsoft&logoColor=white">
-  </div>
-</div>
-
-<div style="background: rgba(16,24,39,0.5); padding: 15px; border-radius: 10px;">
-<h3 style="font-family: 'Consolas', monospace; color: #BD93F9; border-bottom: 1px solid #30363D; padding-bottom: 8px;">Big Data</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white">
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
-</div>
-</div>
+[![Email](https://img.shields.io/badge/gerardgrau2004@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardgrau2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerard-grau-33ba94338)
 
 </div>
+
+<br>
+
+## About
+
+Developer with experience across web, mobile, AI, and data engineering. I build tools that solve real problems — from barcode scanners to AI prompt optimizers to community health platforms.
+
+<br>
+
+## Tech Stack
+
+**Languages** &nbsp;&mdash;&nbsp; Python, JavaScript, PHP, Dart, HTML, CSS
+
+**Frameworks** &nbsp;&mdash;&nbsp; Laravel, Vue.js, Flutter, Bootstrap, TensorFlow
+
+**Data & Cloud** &nbsp;&mdash;&nbsp; Firebase, Elasticsearch, Kibana, Node-RED, SQLite
+
+**AI & APIs** &nbsp;&mdash;&nbsp; OpenAI, prompt engineering, model integration
+
+**Enterprise** &nbsp;&mdash;&nbsp; Microsoft Business Central
+
+<br>
+
+## Projects
+
+### OPTI AI
+Web platform that generates optimized prompts for AI models like GPT-4 and DeepSeek. Designed to improve the quality and precision of human-AI interaction.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### TU diabetes NUESTRA historia
+Forum-style platform for people with type 1 diabetes. Users share experiences, ask questions, and support each other through a community-driven interface.
+
+`Vue.js` `Node.js` `Bootstrap`
+
+---
+
+### MyCodeService
+Mobile application for scanning and managing barcodes with advanced organization features and a local database.
+
+`Flutter` `Dart` `SQLite`
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ggrauggas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggrauggas&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="40%" />
 </div>
 
-<h2 style="font-family: 'Segoe UI', sans-serif; color: #5BCDEC; text-align: center; border-bottom: 2px solid #30363D; padding-bottom: 12px; margin-top: 40px;">My Featured Projects</h2>
+<br>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px; margin: 30px 0;">
-
-<div style="background: #161b22; padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border-top: 4px solid #FF79C6; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
-<h3 style="font-family: 'Consolas', monospace; color: #FF79C6; margin-top: 0; font-size: 20px;">OPTI AI</h3>
-<p style="font-family: 'Segoe UI', sans-serif; color: #A9B7C6; line-height: 1.6;">Web platform in development that generates optimized prompts for artificial intelligence, improving interaction with models like GPT-4 and Deepseek</p>
-<div style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggrauggas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 </div>
 
-<div style="background: #161b22; padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border-top: 4px solid #50FA7B; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
-<h3 style="font-family: 'Consolas', monospace; color: #50FA7B; margin-top: 0; font-size: 20px;">TU diabetes NUESTRA historia</h3>
-<p style="font-family: 'Segoe UI', sans-serif; color: #A9B7C6; line-height: 1.6;">A forum-style web platform to help people with type 1 diabetes, where users can share experiences, ask questions, and receive help from other users.</p>
-<div style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
-</div>
-</div>
-<div style="background: #161b22; padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border-top: 4px solid #50FA7B; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
-<h3 style="font-family: 'Consolas', monospace; color: #50FA7B; margin-top: 0; font-size: 20px;">MyCodeService</h3>
-<p style="font-family: 'Segoe UI', sans-serif; color: #A9B7C6; line-height: 1.6;">Flutter application for scanning and managing barcodes, with advanced organization features and local database.</p>
-<div style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-</div>
-</div>
-</div>
+<br>
 
-<h2 style="font-family: 'Segoe UI', sans-serif; color: #5BCDEC; text-align: center; border-bottom: 2px solid #30363D; padding-bottom: 12px; margin-top: 50px;">GitHub Statistics</h2>
+---
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ggrauggas&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" style="border-radius: 10px; max-width: 100%;"/>
-
-<h2 style="font-family: 'Segoe UI', sans-serif; color: #5BCDEC; text-align: center; border-bottom: 2px solid #30363D; padding-bottom: 12px; margin-top: 50px;">Contact</h2>
-
-<div align="center" style="margin: 30px 0;">
-  <a href="mailto:gerardgrau2004@gmail.com" style="text-decoration: none;">
-    <button style="background: linear-gradient(135deg, #5BCDEC 0%, #3B82F6 100%); color: white; border: none; padding: 14px 28px; border-radius: 30px; font-family: 'Segoe UI', sans-serif; font-weight: 600; font-size: 16px; cursor: pointer; transition: all 0.3s; margin: 0 15px; box-shadow: 0 4px 15px rgba(91,205,236,0.4);">
-       Send Email
-    </button>
-  </a>
-  
-  <a href="www.linkedin.com/in/gerard-grau-33ba94338" style="text-decoration: none;">
-    <button style="background: linear-gradient(135deg, #0077B5 0%, #0A66C2 100%); color: white; border: none; padding: 14px 28px; border-radius: 30px; font-family: 'Segoe UI', sans-serif; font-weight: 600; font-size: 16px; cursor: pointer; transition: all 0.3s; margin: 0 15px; box-shadow: 0 4px 15px rgba(0,119,181,0.4);">
-       LinkedIn
-    </button>
-  </a>
-</div>
-
-<div align="center" style="margin-top: 50px; font-family: 'Segoe UI', sans-serif; color: #A9B7C6;">
-  <img src="https://komarev.com/ghpvc/?username=ggrauggas&label=Profile+views&color=5BCDEC&style=flat" alt="Profile views" style="margin-top: 20px;"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ggrauggas&label=Profile+views&color=58a6ff&style=flat" />
 </div>
