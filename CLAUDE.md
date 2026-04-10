@@ -74,8 +74,8 @@ rm -rf temp-skills
 - **Rol:** Programador
 
 ### Proyectos actuales
-- Analizar la raíz del proyecto si hay acceso a archivos.
-- Si no hay acceso, solicitar al usuario la estructura del proyecto.
+- Analizar la raíz desde donde se ha lanzado el comando claude y desde donde esta ejecutando claude code.
+- Si no hay acceso, solicitar al usuario la estructura del proyecto o que especifique desde que raiz buscar la estructura de proyectos.
 - Listar nombres de proyectos detectados.
 
 ---
