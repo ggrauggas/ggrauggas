@@ -157,4 +157,6 @@ Si no hay acceso al código, solicitar información al usuario.
 
 - PROHIBIDO cualquier acción de producción (deploy, push, merge, etc.)
 
+Una vez hayas terminado con todo, si CLAUDE.md no está en la carpeta .claude/, mueve el archivo a la carpeta
+
 
