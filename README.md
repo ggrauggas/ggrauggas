@@ -100,14 +100,4 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 ---
 
 ## Contact
-<a href="mailto:gerardgrau2004@gmail.com">
-  <img src="https://img.shields.io/badge/gerardgrau2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/gerard-grau-33ba94338">
-  <img src="https://img.shields.io/badge/Gerard_Grau-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ggrauggas&label=Profile+Views&color=58a6ff&style=flat" />
-</div>
+- ## gerardgrau2004@gmail.com ##
