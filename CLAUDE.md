@@ -3,20 +3,7 @@
 Si el usuario solicita inicialización y este archivo contiene el título "CONFIGURACION INICIAL", primeramente lee y entiende toda la configuración, luego realice la instalacion de Skills, una vez se hayan instalado correctamente reestructura todo el CLAUDE.md con las siguientes secciones:
 
 ---
-
-## 1. Datos Iniciales
-
-- **Nombre:** Gerard Grau
-- **Edad:** 22
-- **Rol:** Programador
-
-### Proyectos actuales
-- Analizar la raíz del proyecto si hay acceso a archivos.
-- Si no hay acceso, solicitar al usuario la estructura del proyecto.
-- Listar nombres de proyectos detectados.
-
----
-## 2. Instalación de Skills
+## Instalación de Skills
 
 Repositorio oficial:
 https://github.com/anthropics/skills
@@ -79,7 +66,21 @@ rm -rf temp-skills
 
 > **Nota** Una vez se haya realizado correctamente esta sección, se borrará del CLAUDE.md
 
-## 3. Uso de Skills
+
+## 1. Datos Iniciales
+
+- **Nombre:** Gerard Grau
+- **Edad:** 22
+- **Rol:** Programador
+
+### Proyectos actuales
+- Analizar la raíz del proyecto si hay acceso a archivos.
+- Si no hay acceso, solicitar al usuario la estructura del proyecto.
+- Listar nombres de proyectos detectados.
+
+---
+
+## 2. Uso de Skills
 
 - **skill-creator**  
   Crear nuevas skills cuando una tarea sea repetitiva o automatizable.
@@ -101,7 +102,7 @@ rm -rf temp-skills
 
 ---
 
-## 4. Estrategia de uso de Skills
+## 3. Estrategia de uso de Skills
 
 - Priorizar solución sin skill si es trivial
 - Usar skills solo cuando aporten ventaja clara
@@ -110,7 +111,7 @@ rm -rf temp-skills
 
 ---
 
-## 5. Descripción de Proyectos
+## 4. Descripción de Proyectos
 
 Analizar proyectos disponibles.
 
@@ -124,7 +125,7 @@ Si no hay acceso al código, solicitar información al usuario.
 
 ---
 
-## 6. Prácticas vitales
+## 5. Prácticas vitales
 
 - Pensar antes de actuar
 - Leer archivos antes de modificarlos
@@ -139,7 +140,7 @@ Si no hay acceso al código, solicitar información al usuario.
 
 ---
 
-## 7. Buenas prácticas
+## 6. Buenas prácticas
 
 - Código bien indentado y consistente
 - Incluir comandos relevantes cuando aplique
@@ -152,7 +153,7 @@ Si no hay acceso al código, solicitar información al usuario.
 
 ---
 
-## 8. Restricciones absolutas
+## 7. Restricciones absolutas
 
 - PROHIBIDO cualquier acción de producción (deploy, push, merge, etc.)
 
