@@ -4,14 +4,17 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/gerardgrau2004@gmail.com-333?style=flat&logo=gmail&logoColor=EA4335)](mailto:gerardgrau2004@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Gerard_Grau-333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gerard-grau-33ba94338)
+<a href="mailto:gerardgrau2004@gmail.com">
+  <img src="https://img.shields.io/badge/gerardgrau2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gerard-grau-33ba94338">
+  <img src="https://img.shields.io/badge/Gerard_Grau-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
-
-## About Me
 
 ```yaml
 name: Gerard Grau
@@ -23,7 +26,7 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -33,18 +36,14 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 **AI & Data**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,elasticsearch&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,elasticsearch&theme=dark" />
 
 </td>
 <td align="center" width="50%">
 
 **Mobile**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
 
 </td>
 </tr>
@@ -53,18 +52,14 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 **Frontend**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap&theme=dark" />
 
 </td>
 <td align="center" width="50%">
 
 **Backend & Tools**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,git,vscode&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,git,vscode&theme=dark" />
 
 </td>
 </tr>
@@ -74,46 +69,27 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 ---
 
-## Featured Projects
+### Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ggrauggas/OPTI-IA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ggrauggas&repo=OPTI-IA&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="47%" />
-</a>&nbsp;
-<a href="https://github.com/ggrauggas/PROYECTO-TDNH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ggrauggas&repo=PROYECTO-TDNH&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="47%" />
-</a>
-
-<br>
-
-<a href="https://github.com/ggrauggas/MyCodeService">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ggrauggas&repo=MyCodeService&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="47%" />
-</a>
-
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**OPTI-IA**](https://github.com/ggrauggas/OPTI-IA) | Web platform that generates optimized prompts for AI models like GPT-4 and DeepSeek | `HTML` `CSS` `JS` |
+| [**PROYECTO-TDNH**](https://github.com/ggrauggas/PROYECTO-TDNH) | Forum for people with type 1 diabetes to share experiences and support each other | `Vue.js` `Node.js` `Bootstrap` |
+| [**MyCodeService**](https://github.com/ggrauggas/MyCodeService) | Mobile app for scanning and managing barcodes with local database | `Flutter` `Dart` `SQLite` |
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ggrauggas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ggrauggas&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ggrauggas&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggrauggas&layout=compact&hide_border=true" width="41%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=ggrauggas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggrauggas&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="170" />
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ggrauggas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  <img src="https://streak-stats.demolab.com/?user=ggrauggas&hide_border=true" width="49%" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=ggrauggas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" />
 
 <br><br>
 
@@ -123,14 +99,14 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 ---
 
-## Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ggrauggas/ggrauggas/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ggrauggas/ggrauggas/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ggrauggas/ggrauggas/blob/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ggrauggas/ggrauggas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ggrauggas/ggrauggas/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ggrauggas/ggrauggas/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
