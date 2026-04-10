@@ -1,72 +1,119 @@
 <div align="center">
 
-# Gerard Grau
-
-**Full Stack Developer**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Gerard+Grau;Full+Stack+Developer+%7C+AI+%7C+Mobile+%7C+Big+Data" alt="Typing SVG" />
 
 <br>
 
-[![Email](https://img.shields.io/badge/gerardgrau2004@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardgrau2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerard-grau-33ba94338)
+<a href="mailto:gerardgrau2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-gerardgrau2004-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gerard-grau-33ba94338">
+  <img src="https://img.shields.io/badge/LinkedIn-Gerard_Grau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
-## About
+## About Me
 
-Developer with experience across web, mobile, AI, and data engineering. I build tools that solve real problems — from barcode scanners to AI prompt optimizers to community health platforms.
+```yaml
+name: Gerard Grau
+role: Full Stack Developer
+location: Spain
+focus: Building tools that solve real problems — from AI prompt optimizers
+       to community health platforms and barcode management apps
+```
 
 <br>
 
 ## Tech Stack
 
-**Languages** &nbsp;&mdash;&nbsp; Python, JavaScript, PHP, Dart, HTML, CSS
+<div align="center">
 
-**Frameworks** &nbsp;&mdash;&nbsp; Laravel, Vue.js, Flutter, Bootstrap, TensorFlow
+<table>
+<tr>
+<td align="center" width="50%">
 
-**Data & Cloud** &nbsp;&mdash;&nbsp; Firebase, Elasticsearch, Kibana, Node-RED, SQLite
+**AI & Data**
 
-**AI & APIs** &nbsp;&mdash;&nbsp; OpenAI, prompt engineering, model integration
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,elasticsearch&theme=dark" />
+</a>
 
-**Enterprise** &nbsp;&mdash;&nbsp; Microsoft Business Central
+</td>
+<td align="center" width="50%">
+
+**Mobile**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**Frontend**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap&theme=dark" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+**Backend & Tools**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,git,vscode&theme=dark" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
-## Projects
+## Featured Projects
 
-### OPTI AI
-Web platform that generates optimized prompts for AI models like GPT-4 and DeepSeek. Designed to improve the quality and precision of human-AI interaction.
+<div align="center">
 
-`HTML` `CSS` `JavaScript`
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ggrauggas&repo=opti-ai&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="47%" />
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ggrauggas&repo=tu-diabetes-nuestra-historia&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="47%" />
+</a>
 
----
+</div>
 
-### TU diabetes NUESTRA historia
-Forum-style platform for people with type 1 diabetes. Users share experiences, ask questions, and support each other through a community-driven interface.
-
-`Vue.js` `Node.js` `Bootstrap`
-
----
-
-### MyCodeService
-Mobile application for scanning and managing barcodes with advanced organization features and a local database.
-
-`Flutter` `Dart` `SQLite`
+> **OPTI AI** — Web platform that generates optimized prompts for AI models like GPT-4 and DeepSeek `HTML` `CSS` `JavaScript`
+>
+> **TU diabetes NUESTRA historia** — Forum for people with type 1 diabetes to share experiences and support each other `Vue.js` `Node.js` `Bootstrap`
+>
+> **MyCodeService** — Mobile app for scanning and managing barcodes with local database `Flutter` `Dart` `SQLite`
 
 <br>
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ggrauggas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggrauggas&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="40%" />
-</div>
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=ggrauggas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggrauggas&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="41%" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggrauggas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ggrauggas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ggrauggas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" />
+
 </div>
 
 <br>
@@ -74,5 +121,5 @@ Mobile application for scanning and managing barcodes with advanced organization
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ggrauggas&label=Profile+views&color=58a6ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ggrauggas&label=Profile+Views&color=58a6ff&style=flat" />
 </div>
