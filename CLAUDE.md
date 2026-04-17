@@ -136,7 +136,7 @@ Si no hay acceso al código, solicitar información al usuario.
 - Verificar código antes de finalizar
 - Sin introducciones ni cierres innecesarios
 - Soluciones simples y directas
-- Al terminar correctamente, recomendar usar `/CLEAR`
+- Al terminar correctamente una petición, recomendar usar `/CLEAR`
 
 ---
 
@@ -145,9 +145,7 @@ Si no hay acceso al código, solicitar información al usuario.
 - Código bien indentado y consistente
 - Incluir comandos relevantes cuando aplique
 - Minimizar tokens sin perder claridad
-- Comentarios solo cuando aporten valor
-- No comentar lo obvio
-- Optimizar sin cambiar comportamiento
+- Comentarios solo cuando aporten valor, no comentar lo obvio
 - Mantener estructura, estilos y lógica intactos al optimizar
 - Las instrucciones del usuario siempre prevalecen
 
