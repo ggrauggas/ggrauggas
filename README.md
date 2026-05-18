@@ -5,7 +5,7 @@
 ---
 
 ```yaml
-title_section = "MY PROFILE"
+title_section: "MY PROFILE"
 ```
 
 ```yaml
@@ -20,7 +20,7 @@ focus:    Building tools that solve real problems —
 ---
 
 ```yaml
-title_section = "MY TECH STACK"
+title_section: "MY TECH STACK"
 ```
 
 <div align="center">
@@ -57,7 +57,7 @@ title_section = "MY TECH STACK"
 ---
 
 ```yaml
-title_section = "MY FEATURED PROJECTS"
+title_section: "MY FEATURED PROJECTS"
 ```
 
 | Project | Description | Stack | Website |
@@ -69,7 +69,7 @@ title_section = "MY FEATURED PROJECTS"
 ---
 
 ```yaml
-title_section = "MY GIT STATS"
+title_section: "MY GIT STATS"
 ```
 
 <div align="center">
@@ -94,7 +94,7 @@ title_section = "MY GIT STATS"
 ---
 
 ```yaml
-title_section = "CONTACT"
+title_section: "CONTACT"
 ```
 
 <div align="center">
