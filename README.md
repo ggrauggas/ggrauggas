@@ -12,9 +12,8 @@ title_section: "MY PROFILE"
 name:     Gerard Grau
 role:     Full Stack Developer
 location: Spain 🇪🇸
-focus:    Building tools that solve real problems —
-          from AI prompt optimizers to community health
-          platforms and barcode management apps
+focus:    Building scalable web applications and digital products across frontend and backend,
+          focusing on performance, usability, and clean architecture.
 ```
 
 ---
