@@ -4,7 +4,7 @@
 
 ---
 
-```python
+```yaml
 title_section = "MY PROFILE"
 ```
 
@@ -19,7 +19,7 @@ focus:    Building tools that solve real problems —
 
 ---
 
-```python
+```yaml
 title_section = "MY TECH STACK"
 ```
 
@@ -56,7 +56,7 @@ title_section = "MY TECH STACK"
 
 ---
 
-```python
+```yaml
 title_section = "MY FEATURED PROJECTS"
 ```
 
@@ -68,7 +68,7 @@ title_section = "MY FEATURED PROJECTS"
 
 ---
 
-```python
+```yaml
 title_section = "MY GIT STATS"
 ```
 
@@ -93,7 +93,7 @@ title_section = "MY GIT STATS"
 
 ---
 
-```python
+```yaml
 title_section = "CONTACT"
 ```
 
