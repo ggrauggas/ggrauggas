@@ -17,38 +17,19 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 ### Tech Stack
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**AI & Data**
-<img src="https://skillicons.dev/icons?i=python,tensorflow,elasticsearch&theme=dark" />
-
-</td>
-<td align="center" width="50%">
-
-**Mobile**
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap&theme=dark" />
-
-</td>
-<td align="center" width="50%">
-
-**Backend & Tools**
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,git,vscode&theme=dark" />
-
-</td>
-</tr>
-</table>
-</div>
+```json
+{
+  "Tech Stack": {
+    "Languages": ["Java", "Python", "JavaScript", "PHP", "Dart"],
+    "Frontend": ["Vue.js", "Angular", "HTML", "SCSS", "Bootstrap"],
+    "Backend": ["Laravel", "Node.js"],
+    "Database": ["MongoDB", "SQLite", "PostgreSQL"],
+    "Mobile": ["Flutter", "Firebase", "Android Studio"],
+    "AI & Data": ["TensorFlow", "Elasticsearch", "Node Express"],
+    "Tools": ["Git", "VS Code", "AWS", "Business Central", "Power BI"]
+  }
+}
+```
 
 ---
 
