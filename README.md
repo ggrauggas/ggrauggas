@@ -4,6 +4,9 @@
 </div>
 
 ---
+```python
+title_section = "MY PROFILE"
+```
 
 ```yaml
 name: Gerard Grau
@@ -15,7 +18,9 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 ---
 
-### Tech Stack
+```python
+title_section = "MY TECH STACK"
+```
 
 ```json
 {
@@ -33,7 +38,9 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 ---
 
-### Featured Projects
+```python
+title_section = "MY FEATURED PROJECTS"
+```
 
 | Project | Description | Stack | Website |
 |---------|-------------|-------|---------|
@@ -43,7 +50,9 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 ---
 
-### GitHub Stats
+```python
+title_section = "MY GIT STATS"
+```
 
 <div align="center">
 <br><br>
@@ -62,6 +71,7 @@ focus: Building tools that solve real problems — from AI prompt optimizers
 
 ---
 
-## Contact
-
+```python
+"title_section = CONTACT"
+```
 - gerardgrau2004@gmail.com
