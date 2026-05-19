@@ -15,8 +15,7 @@
 name: Gerard Grau
 role: Full Stack Developer
 location: Spain
-focus: Building tools that solve real problems — from AI prompt optimizers
-       to community health platforms and barcode management apps
+focus: Building tools that solve real problems
 ```
 
 ---
