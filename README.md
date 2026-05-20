@@ -72,9 +72,9 @@ ___ ___  ___     _ ___ ___ _____ ___        ___________
 ```
 <div align="center">
 <br><br>
-<img src="https://streak-stats.demolab.com/?user=ggrauggas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" />
+<img src="https://streak-stats.demolab.com/?user=ggrauggas&theme=github-dark-blue&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" />
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ggrauggas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ggrauggas&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
 <div align="center">
