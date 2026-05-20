@@ -86,4 +86,4 @@ ___ ___  ___     _ ___ ___ _____ ___        ___________
                                         ╚═══════════╝
 
 ```
-- gerardgrau2004@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-gerardgrau2004@gmail.com-58a6ff?style=flat&logo=gmail&logoColor=58a6ff&labelColor=0d1117&color=0d1117)](mailto:gerardgrau2004@gmail.com)
