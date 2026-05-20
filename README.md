@@ -28,20 +28,12 @@ _____ ___ ___ _  _     ___ _____ _   ___ _  __       __|__|__|__
                                                        ‾|‾|‾|‾|‾
 ```
 
-```json
-{
-  "Tech Stack": {
-    "Languages": ["Java", "Python", "JavaScript", "PHP", "Dart"],
-    "Frontend": ["Vue.js", "Angular", "HTML", "SCSS", "Bootstrap"],
-    "Backend": ["Laravel", "Node.js"],
-    "Database": ["MongoDB", "SQLite", "PostgreSQL"],
-    "Mobile": ["Flutter", "Firebase", "Android Studio"],
-    "AI & Data": ["TensorFlow", "Elasticsearch", "Node Express"],
-    "OS": ["Linux", "Windows"],
-    "Tools": ["Git", "VS Code", "AWS", "Business Central", "Power BI"]
-  }
-}
-```
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,git,aws,cpp,css,docker,postgres,firebase,github,html,mongodb,mysql,postman,py,vscode,azure,javascript,nodejs,java,kotlin,vue,angular,flutter&perline=12" />
+  </a>
+</p>
 
 ---
 
