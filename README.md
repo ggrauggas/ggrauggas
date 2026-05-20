@@ -36,6 +36,7 @@ focus: Building tools that solve real problems
     "Database": ["MongoDB", "SQLite", "PostgreSQL"],
     "Mobile": ["Flutter", "Firebase", "Android Studio"],
     "AI & Data": ["TensorFlow", "Elasticsearch", "Node Express"],
+    "OS": ["Linux", "Windows"],
     "Tools": ["Git", "VS Code", "AWS", "Business Central", "Power BI"]
   }
 }
