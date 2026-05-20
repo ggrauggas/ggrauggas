@@ -11,11 +11,20 @@
 | |\/| |\ V /    |  _/   / (_) | _| | || |__| __|    ║                     ║
 |_|  |_| |_|     |_| |_|_|\___/|_| |___|____|___|    ╚═════════════════════╝
 ```
-```yaml
-name: Gerard Grau
-role: Full Stack Developer
-location: Spain, Valencia
-focus: Building tools that solve real problems
+```py
+class GerardGrau:
+    def __init__(self):
+        self.role = 'Full Stack Dev'
+        self.city = 'Valencia, ES'
+
+    def get_stack(self):
+        return ['Multiplatform', 'Web', 'AI & Big Data']
+    
+    def get_tech(self):
+        return ['Javascript', 'Python', 'Java']
+
+    def is_available(self):
+        return True
 ```
 
 ---
