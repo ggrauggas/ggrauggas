@@ -14,7 +14,7 @@
 ```yaml
 name: Gerard Grau
 role: Full Stack Developer
-location: Spain
+location: Spain, Valencia
 focus: Building tools that solve real problems
 ```
 
