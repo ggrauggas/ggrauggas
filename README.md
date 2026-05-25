@@ -41,7 +41,7 @@ ______ ___ ___ _  _     ___ _____ _   ___ _  __      __|__|__|__
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,aws,cpp,css,docker,postgres,firebase,github,html,mongodb,mysql,php,py,vscode,azure,javascript,nodejs,java,kotlin,vue,angular,flutter&perline=12" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,java,html,javascript,css,py,cs,nodejs,vue,angular,php,mysql,mongodb,postgres,firebase,flutter,kotlin,git,github,aws,docker,vscode,azure&perline=12" />
   </a>
 </p>
 
