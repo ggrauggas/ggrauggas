@@ -59,8 +59,8 @@ ___ ___  ___     _ ___ ___ _____ ___        ___________
 
 | Project | Description | Stack | Website |
 |---------|-------------|-------|---------|
-| [**OPTI-IA**](https://github.com/ggrauggas/OPTI-IA) | Web platform that generates optimized prompts for AI models like GPT-4 and DeepSeek | `HTML` `CSS` `JS` | — |
 | [**PROYECTO-TDNH**](https://github.com/ggrauggas/PROYECTO-TDNH) | Forum for people with type 1 diabetes to share experiences and support each other | `Vue.js` `Node.js` `Bootstrap` | [**TU diabetes NUESTRA historia**](https://tudiabetes.netlify.app) |
+| [**OPTI-IA**](https://github.com/ggrauggas/OPTI-IA) | Web platform that generates optimized prompts for AI models like GPT-4 and DeepSeek | `HTML` `CSS` `JS` | — |
 | [**MyCodeService**](https://github.com/ggrauggas/MyCodeService) | Mobile app for scanning and managing barcodes with local database | `Flutter` `Dart` `SQLite` `Firebase` | — |
 
 ---
